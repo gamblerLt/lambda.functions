@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e1b91b-563a-4f55-8302-3b5b81f87144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/CompositionFunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/FunctionMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/FunctionMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/TripleIntConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/TripleIntConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Unbounded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Unbounded.java" afterDir="false" />
+    <list default="true" id="41e1b91b-563a-4f55-8302-3b5b81f87144" name="Changes" comment="Lambda">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/CompositionFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/CompositionFunctionExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +117,13 @@
       <option name="presentableId" value="Default" />
       <updated>1674493106454</updated>
     </task>
+    <task id="LOCAL−00001" summary="Lambda">
+      <created>1674503821083</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674503821083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda" />
   </component>
 </project>
